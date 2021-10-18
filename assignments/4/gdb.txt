@@ -1,0 +1,49 @@
+Breakpoint 1 at 0x12d5
+Breakpoint 2 at 0x1308
+Breakpoint 3 at 0x1346
+Breakpoint 4 at 0x1385
+
+Breakpoint 1, 0x00005555555552d5 in level_one ()
+0x00005555555552d9 in level_one ()
+0x00005555555552da in level_one ()
+0x00005555555552dd in level_one ()
+0x00005555555552e1 in level_one ()
+0x00005555555552e4 in level_one ()
+
+Breakpoint 2, 0x0000555555555308 in level_two ()
+0x000055555555530c in level_two ()
+0x000055555555530d in level_two ()
+0x0000555555555310 in level_two ()
+0x0000555555555314 in level_two ()
+0x0000555555555317 in level_two ()
+0x000055555555531e in level_two ()
+
+Breakpoint 3, 0x0000555555555346 in level_three ()
+0x000055555555534a in level_three ()
+0x000055555555534b in level_three ()
+0x000055555555534e in level_three ()
+0x0000555555555352 in level_three ()
+0x0000555555555355 in level_three ()
+0x000055555555535f in level_three ()
+0x0000555555555365 in level_three ()
+0x0000555555555368 in level_three ()
+0x000055555555536a in level_three ()
+0x0000555555555371 in level_three ()
+0x0000555555555374 in level_three ()
+
+Breakpoint 4, 0x0000555555555385 in level_four ()
+0x0000555555555389 in level_four ()
+0x000055555555538a in level_four ()
+0x000055555555538d in level_four ()
+0x0000555555555391 in level_four ()
+0x0000555555555394 in level_four ()
+0x000055555555539e in level_four ()
+0x00005555555553a4 in level_four ()
+0x00005555555553a7 in level_four ()
+0x00005555555553a9 in level_four ()
+0x00005555555553af in level_four ()
+0x00005555555553b2 in level_four ()
+0x00005555555553b4 in level_four ()
+0x00005555555553bb in level_four ()
+0x00005555555553be in level_four ()
+[Inferior 1 (process 65660) exited normally]
